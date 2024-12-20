@@ -1,0 +1,15 @@
+{
+  "name": "webpack-starter",
+  "version": "1.0.0",
+  "description": "Boilerplate for creating apps using Webpack tooling",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode production"
+  },
+  "author": "Kieran Arinze",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^5.97.1",
+    "webpack-cli": "^5.1.4"
+  }
+}
