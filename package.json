@@ -4,7 +4,7 @@
   "description": "Boilerplate for creating apps using Webpack tooling",
   "main": "index.js",
   "scripts": {
-    "build": "webpack --mode production"
+    "build": "webpack"
   },
   "author": "Kieran Arinze",
   "license": "MIT",
